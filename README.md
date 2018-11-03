@@ -1,6 +1,8 @@
 ember-cli-numeraljs
 ==============================================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/onehilltech/ember-cli-numeraljs.svg)](https://greenkeeper.io/)
+
 [Short description of the addon.]
 
 Installation
