@@ -1,13 +1,14 @@
 {
   "name": "ember-cli-numeraljs",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "ember-cli addons for numeraljs.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "numeraljs"
   ],
-  "repository": "",
-  "license": "MIT",
-  "author": "",
+  "repository": "github:onehilltech/ember-cli-numeraljs",
+  "license": "Apache-2.0",
+  "author": "James H. Hill <james@onehilltech.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -20,7 +21,8 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.6.0"
+    "ember-cli-babel": "^6.6.0",
+    "ember-cli-blueprint-helpers": "^0.4.5"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.7.0",
@@ -46,6 +48,7 @@
     "eslint-plugin-ember": "^5.0.0",
     "eslint-plugin-node": "^6.0.1",
     "loader.js": "^4.2.3",
+    "numeral": "^2.0.6",
     "qunit-dom": "^0.6.2"
   },
   "engines": {
