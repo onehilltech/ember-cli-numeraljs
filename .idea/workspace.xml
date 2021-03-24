@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63ad77b7-0e7c-4efe-940d-50736ebf353a" name="Default Changelist" comment="" />
+    <list default="true" id="63ad77b7-0e7c-4efe-940d-50736ebf353a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blueprints/ember-cli-numeraljs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +141,7 @@
       <workItem from="1541213258307" duration="373000" />
       <workItem from="1612411391856" duration="1306000" />
       <workItem from="1616594469072" duration="18000" />
-      <workItem from="1616598867901" duration="1138000" />
+      <workItem from="1616598867901" duration="2100000" />
     </task>
     <servers />
   </component>
